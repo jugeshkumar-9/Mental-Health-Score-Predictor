@@ -19,6 +19,7 @@ A deep learning project that analyzes a piece of text and predicts a mental heal
 
 ## Tech Stack
 - Python
+- HTML,CSS JavaScript
 - TensorFlow 
 - FastAPI and Uvicorn
 - NumPy, Pandas, scikit-learn
